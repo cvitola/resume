@@ -1,0 +1,13 @@
+@import url("components/avatar.css");
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Libre+Franklin:wght@200&display=swap');
+body{
+    font-size: 16px;
+    font-family: 'Libre Franklin', sans-serif;
+}
+p i{
+    font-size: 26px;
+}
+
+.subtitulo{
+    font-family: 'Bangers', cursive;
+}
