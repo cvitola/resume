@@ -1,15 +1,18 @@
 @import url("components/avatar.css");
 @import url('https://fonts.googleapis.com/css2?family=Bangers&family=Libre+Franklin:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Changa+One&display=swap');
 body{
     font-size: 16px;
     font-family: 'Libre Franklin', sans-serif;
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 33%, rgba(234,246,231,1) 71%, rgba(221,251,250,1) 100%);
 }
 p i{
     font-size: 26px;
 }
 
 .subtitulo{
-    font-family: 'Bangers', cursive;
+    font-family: 'Changa One', cursive;
 }
 
 p img{
