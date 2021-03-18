@@ -8,6 +8,7 @@ body{
     background-size: cover;
     /*background: radial-gradient(circle, rgba(255,255,255,1) 33%, rgba(234,246,231,1) 71%, rgba(221,251,250,1) 100%); */
     width: 960px;
+    margin: auto;
 }
 p i{
     font-size: 26px;
