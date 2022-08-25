@@ -4,10 +4,12 @@
 body{
     font-size: 16px;
     font-family: 'Libre Franklin', sans-serif;
-    background-image: linear-gradient(rgba(255, 255, 255, 0.9),rgb(255, 255, 255, 0.8)),url("../img/bgimg.jpg");
+   /* background-image: linear-gradient(rgba(255, 255, 255, 0.9),rgb(255, 255, 255, 0.8)),url("../img/bgimg.jpg");*/
+    background-color:#22272e ;
+    color: #FAFAFA;
     background-size: cover;
     /*background: radial-gradient(circle, rgba(255,255,255,1) 33%, rgba(234,246,231,1) 71%, rgba(221,251,250,1) 100%); */
-    width: 960px;
+    width: 1026px;
     margin: auto;
 }
 p i{
@@ -22,4 +24,18 @@ p img{
     width: 35px;
     height: 35px;
     border-radius: 50%;
+}
+
+.nombre-curso{
+    width: 210px;
+}
+
+.descr{
+    width: 236px;
+}
+h4,h3{
+    color: #22272e;
+}
+td,th{
+    color: #FAFAFA;
 }
